@@ -1,0 +1,49 @@
+/* E1E3E5, 74AED5, 427CB5, 526FCC, 1D2354 */
+
+body {
+    background-color: #74AED5;
+    font-family:'Times New Roman', Times, serif
+}
+
+.nav-list-elm {
+    font-size: 18px;
+}
+
+p {
+    color: #427CB5;
+    font-size: 16px;
+    padding: 8px;
+    margin: 20px;
+    border: 2px solid #526FCC;
+}
+.titles {
+    color: #1D2354;
+}
+
+a:visited {
+    color: #526FCC;
+}
+
+a:hover {
+    color: #E1E3E5;
+    opacity: 0.8;
+}
+
+#first-pc-side-comment {
+    color: #427CB5;
+    font-size: 18px;
+    padding: 6px;
+    margin: 25px;
+    border: 3px solid #526FCC;
+}
+
+.images {
+    height: 300px;
+    width: 400px;
+}
+
+#parts-list {
+    color: #427CB5;
+    font-size: 18px;
+
+}
